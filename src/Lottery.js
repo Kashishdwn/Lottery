@@ -4,7 +4,7 @@ import './Lottery.css'
 class Lottery extends React.Component{
     static defaultProps={
         title:'Lotto',
-        maxNum:40,
+        maxNum:50,
         maxBalls:6
     }
     constructor(props){
